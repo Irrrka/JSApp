@@ -1,6 +1,4 @@
 
-//export const appKey = "kid_rJEkKEZpS";
-//export const appSecret = "e20207bfd1c34e4fae7d49aa6eae2fda";
 export const appKey = "";
 export const appSecret = "";
 
